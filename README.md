@@ -3,7 +3,7 @@ Lightweight utility for publishing APKs to the PlayStore
 
 ## Usage
 
-Usage of ./publishapk: 
+Usage of ./publishapk:  
   -apk="": path to the apk which should be uploaded.  
   -debug=false: flag indicating whether debug output should be printed.  
   -email="": email address of the service account.  
